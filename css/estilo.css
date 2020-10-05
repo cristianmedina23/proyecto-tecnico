@@ -1,0 +1,115 @@
+
+header{
+    color: black;
+    background-color: #fff;    
+}
+body{
+    background-image:url(../img/fondo01.png);
+
+	
+
+}
+.logo img{
+	height: 60px;
+	width: 130px;
+	padding: 10px 10px 10px 10px;
+		
+}
+main{
+	padding: 10px 10px 10px 10px;
+
+}
+h1{
+		text-align: center;
+		color:midnightblue;
+            
+		font-famil sans-serif;
+   }
+nav{
+	
+	width: 100%;
+}
+nav li{
+	list-style: none;
+	padding: 15px 5px;
+	display: inline-flex;
+}
+nav a{
+	color: #fff;
+	text-decoration: none;
+	padding: 15px;
+    font-style: all;
+
+
+}
+nav ul{
+	text-align: center;
+}
+.blanco a:hover{
+background-color: #fff;	
+color: midnightblue;
+}
+
+ .radio img{
+    border-radius:10px;
+    
+}
+.mercado a {
+color: yellow;
+
+}
+
+
+section {
+	display: inline-flex;
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+}
+article img{
+	padding:10px 10px 10px 10px;
+}
+
+h2{
+	text-align: center;
+	color: #fff;
+	font-family:sans-serif;
+}
+
+h3{
+	text-align:center;
+	color: white;
+	font-family: sans-serif;
+}
+iframe{
+	margin-bottom:15px;
+
+}
+ .accesorios div{
+	padding: 10px 10px 10px 10px;
+}
+.contenedor .accesorios{
+
+     
+	padding:40px 60px 40PX 60PX;
+	
+	text-align: center;
+	background:  white;
+	border:2px solid black;
+	width: calc(115% - 20px);
+	
+
+    box-sizing: border-box;
+    
+
+
+}
+
+footer {
+    background-color: midnightblue;
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+
+
